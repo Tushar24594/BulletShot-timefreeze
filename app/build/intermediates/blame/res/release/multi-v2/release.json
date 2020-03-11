@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\Development\\AndroidStudioProject\\BulletShot\\app\\build\\intermediates\\res\\merged\\release\\values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\Development\\AndroidStudioProject\\BulletShot\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "4,7,10,3,14,11,12,13",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "124,202,280,59,568,350,436,510",
+                        "endColumns": "48,45,68,63,52,84,72,56",
+                        "endOffsets": "168,243,344,118,616,430,504,562"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,104,150,219,283,336,421,494",
+                        "endColumns": "48,45,68,63,52,84,72,56",
+                        "endOffsets": "99,145,214,278,331,416,489,546"
+                    }
+                }
+            ]
+        }
+    ]
+}

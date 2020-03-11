@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <SurfaceView
+        android:id="@+id/surfaceView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+    <TextView
+        android:id="@+id/textViewGyroValues"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal|center_vertical"
+        android:gravity="center"
+        android:text="testing"
+        android:background="@android:color/transparent" >
+    </TextView>
+     <ImageView
+        android:id="@+id/imageViewGrid"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_gravity="center_horizontal|center_vertical"
+        android:gravity="center"
+        android:src="@drawable/camera_grid"
+        android:background="@android:color/transparent" >
+    </ImageView>
+    
+    <!--
+         Button
+        android:id="@+id/btnCapture"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:background="@drawable/round_button"
+        android:text="@string/btn_capture" /
+    -->
+
+</FrameLayout>

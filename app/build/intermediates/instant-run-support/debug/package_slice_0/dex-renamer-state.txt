@@ -1,0 +1,4 @@
+#Sun Oct 14 13:46:51 IST 2018
+base.0=D\:\\Development\\AndroidStudioProject\\BulletShot\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex

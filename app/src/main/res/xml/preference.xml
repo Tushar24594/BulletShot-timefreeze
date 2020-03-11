@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <PreferenceCategory android:title="Enter device name" >
+        <EditTextPreference
+            android:defaultValue="1"
+            android:key="devicename"
+            android:summary="Please provide device name eg. image1"
+            android:title="Device Name" >
+        </EditTextPreference>
+    </PreferenceCategory>
+    <PreferenceCategory android:title="Enter Server Details" >
+        <EditTextPreference
+            android:defaultValue="192.168.1.1:3000"
+            android:key="serveraddress"
+            android:summary="Please provide server hostname or ip eg:192.168.1.8"
+            android:title="Server Hostname/IP" >
+        </EditTextPreference>
+    </PreferenceCategory>
+
+</PreferenceScreen>

@@ -1,0 +1,80 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+* .factorypath
+* .gitignore
+* ic_launcher-web.png
+* keystore\
+* keystore\bulletapp@123.keystore
+* proguard.cfg
+* release\
+* release\CamTestActivity_v_1.0_release.apk
+* release\CamTestActivity_v_1.1_release.apk
+* release\CamTestActivity_v_1.2_release.apk
+* release\CamTestActivity_v_3_release.apk
+* release\bulletshot_v_10.0_release.apk
+* release\bulletshot_v_10.1_release.apk
+* release\bulletshot_v_10.2_release.apk
+* release\bulletshot_v_10.3_release.apk
+* release\bulletshot_v_10.4_release.apk
+* release\bulletshot_v_11.0_rmf_release.apk
+* release\bulletshot_v_4_release.apk
+* release\bulletshot_v_5_release.apk
+* release\bulletshot_v_6_release.apk
+* release\bulletshot_v_7_release.apk
+* release\bulletshot_v_8_release.apk
+* release\bulletshot_v_9.1_release.apk
+* release\bulletshot_v_9.2_release.apk
+* release\bulletshot_v_9_release.apk
+
+Replaced Jars with Dependencies:
+--------------------------------
+The importer recognized the following .jar files as third party
+libraries and replaced them with Gradle dependencies instead. This has
+the advantage that more explicit version information is known, and the
+libraries can be updated automatically. However, it is possible that
+the .jar file in your project was of an older version than the
+dependency we picked, which could render the project not compileable.
+You can disable the jar replacement in the import wizard and try again:
+
+android-support-v4.jar => com.android.support:support-v4:19.1.0
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* .apt_generated\ => app\src\main\java\
+* AndroidManifest.xml => app\src\main\AndroidManifest.xml
+* libs\android-async-http-1.4.6.jar => app\libs\android-async-http-1.4.6.jar
+* libs\aws-android-sdk-core-2.2.5.jar => app\libs\aws-android-sdk-core-2.2.5.jar
+* libs\aws-android-sdk-s3-2.2.5.jar => app\libs\aws-android-sdk-s3-2.2.5.jar
+* libs\butterknife-6.0.0.jar => app\libs\butterknife-6.0.0.jar
+* libs\classes.jar => app\libs\classes.jar
+* libs\engine.io-client-0.4.1.jar => app\libs\engine.io-client-0.4.1.jar
+* libs\Java-WebSocket-1.3.0.jar => app\libs\Java-WebSocket-1.3.0.jar
+* libs\rxjava-1.2.1.jar => app\libs\rxjava-1.2.1.jar
+* libs\socket.io-client-0.4.2.jar => app\libs\socket.io-client-0.4.2.jar
+* res\ => app\src\main\res\
+* src\ => app\src\main\java\
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)

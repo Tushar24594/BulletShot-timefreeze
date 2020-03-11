@@ -1,0 +1,76 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="${relativePackage}.${activityClass}"
+    android:padding="8dp" >
+
+    <EditText
+        android:id="@+id/editTextRfid"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:ems="10" 
+        android:hint="Enter RFID">
+
+        <requestFocus />
+    </EditText>
+
+    <Button
+        android:id="@+id/buttonUpload"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/editTextRfid"
+        android:text="Create and Save Video" 
+        android:layout_centerHorizontal="true"/>
+    
+     <Button
+         android:id="@+id/buttonPost"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:layout_alignLeft="@+id/buttonUpload"
+         android:layout_alignRight="@+id/buttonUpload"
+         android:layout_below="@+id/buttonUpload"
+         android:layout_marginTop="18dp"
+         android:text="Post Video to Social" />
+     
+     <Button
+         android:id="@+id/buttonEmailGif"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:layout_alignLeft="@+id/buttonUpload"
+         android:layout_alignRight="@+id/buttonUpload"
+         android:layout_below="@+id/buttonPost"
+         android:layout_marginTop="18dp"
+         android:text="Email Video" />
+
+     <EditText
+         android:id="@+id/editTextStatus"
+         android:layout_width="fill_parent"
+         android:layout_height="wrap_content"
+         android:layout_alignParentBottom="true"
+         android:layout_below="@+id/progressBar"
+         android:ems="10"
+         android:gravity="center_vertical|top"
+         android:inputType="textMultiLine"
+         android:padding="5dp" />
+
+     <ProgressBar
+         android:id="@+id/progressBar"
+         style="?android:attr/progressBarStyleHorizontal"
+         android:layout_width="fill_parent"
+         android:layout_height="wrap_content"
+         android:layout_below="@+id/buttonEmailGif"
+         android:layout_centerHorizontal="true"
+         android:padding="5dp" />
+
+    <ImageButton
+        android:id="@+id/imageButtonDownload"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/progressBar"
+        android:layout_alignParentRight="true"
+        android:src="@mipmap/ic_launcher" />
+
+</RelativeLayout>

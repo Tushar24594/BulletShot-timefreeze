@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "D:\\Development\\AndroidStudioProject\\BulletShot\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "D:\\Development\\AndroidStudioProject\\BulletShot\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Development\\AndroidStudioProject\\BulletShot\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\Development\\AndroidStudioProject\\BulletShot\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Development\\AndroidStudioProject\\BulletShot\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "D:\\Development\\AndroidStudioProject\\BulletShot\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Development\\AndroidStudioProject\\BulletShot\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "D:\\Development\\AndroidStudioProject\\BulletShot\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Development\\AndroidStudioProject\\BulletShot\\app\\build\\intermediates\\res\\merged\\release\\drawable_camera_grid.png.flat",
+        "source": "D:\\Development\\AndroidStudioProject\\BulletShot\\app\\src\\main\\res\\drawable\\camera_grid.png"
+    },
+    {
+        "merged": "D:\\Development\\AndroidStudioProject\\BulletShot\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "D:\\Development\\AndroidStudioProject\\BulletShot\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Development\\AndroidStudioProject\\BulletShot\\app\\build\\intermediates\\res\\merged\\release\\xml_preference.xml.flat",
+        "source": "D:\\Development\\AndroidStudioProject\\BulletShot\\app\\src\\main\\res\\xml\\preference.xml"
+    },
+    {
+        "merged": "D:\\Development\\AndroidStudioProject\\BulletShot\\app\\build\\intermediates\\res\\merged\\release\\layout_main.xml.flat",
+        "source": "D:\\Development\\AndroidStudioProject\\BulletShot\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "D:\\Development\\AndroidStudioProject\\BulletShot\\app\\build\\intermediates\\res\\merged\\release\\drawable_round_button.xml.flat",
+        "source": "D:\\Development\\AndroidStudioProject\\BulletShot\\app\\src\\main\\res\\drawable\\round_button.xml"
+    },
+    {
+        "merged": "D:\\Development\\AndroidStudioProject\\BulletShot\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\Development\\AndroidStudioProject\\BulletShot\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Development\\AndroidStudioProject\\BulletShot\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\Development\\AndroidStudioProject\\BulletShot\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Development\\AndroidStudioProject\\BulletShot\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_upload.xml.flat",
+        "source": "D:\\Development\\AndroidStudioProject\\BulletShot\\app\\src\\main\\res\\layout\\activity_upload.xml"
+    },
+    {
+        "merged": "D:\\Development\\AndroidStudioProject\\BulletShot\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\Development\\AndroidStudioProject\\BulletShot\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Development\\AndroidStudioProject\\BulletShot\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "D:\\Development\\AndroidStudioProject\\BulletShot\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Development\\AndroidStudioProject\\BulletShot\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_ic_launcher.png.flat",
+        "source": "D:\\Development\\AndroidStudioProject\\BulletShot\\app\\src\\main\\res\\drawable-ldpi\\ic_launcher.png"
+    }
+]
